@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de README.md em português para o seu repositório "Prognostication-using-Neural-Network-in-Agriculture" no GitHub:
-
----
 
 # Prognóstico usando Rede Neural na Agricultura
 
